@@ -1,2 +1,1 @@
 # python-zomato-restaurant-bangalore-analysis
-Project Overview: The Zomato Bangalore Restaurant Analysis project involved leveraging Python programming language to analyze restaurant data sourced from Zomato in Bangalore, India. Through data exploration, visualization, and analysis techniques, this project aimed to uncover insights into the restaurant landscape, including cuisine trends, ratings, pricing, and geographical distribution
